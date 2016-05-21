@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+!mis-2016-exercise-3-sensors-context_kolyada_hafany.apk
 
 # Files for the Dalvik VM
 *.dex
@@ -13,6 +14,8 @@ bin/
 gen/
 
 # Gradle files
+*.iml
+/.idea
 .gradle/
 build/
 

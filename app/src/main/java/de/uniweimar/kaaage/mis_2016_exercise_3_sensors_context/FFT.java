@@ -1,3 +1,5 @@
+package de.uniweimar.kaaage.mis_2016_exercise_3_sensors_context;
+
 /*
  *  Copyright 2006-2007 Columbia University.
  *
